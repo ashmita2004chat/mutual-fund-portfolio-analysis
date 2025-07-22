@@ -36,15 +36,16 @@ This project presents a comprehensive analysis of selected mutual funds with the
 ---
 ## 📁 Project Structure
 
-The repository is organized as follows:
+## 📁 Repository Structure
 
-mutual-fund-analysis/
-│
-├── mutual_fund_analysis_updated.R # Main R source code for data analysis and dashboard
-├── /data/ # Folder containing raw CSV files (mutual fund NAVs)
-├── /outputs/ # PNG files for bar charts, lollipop charts, heatmaps, etc.
-├── /docs/ # PDF file compiling all dashboard screenshots
-└── README.md # Project documentation file
+| File/Folder                         | Description                                                  |
+|------------------------------------|--------------------------------------------------------------|
+| mutual_fund_analysis_updated.R     | Main R source code for data analysis and dashboard           |
+| /data/                              | Folder containing raw CSV files (mutual fund NAVs)           |
+| /visualisations/                           | PNG files for bar charts, lollipop charts, heatmaps, etc.    |
+| /dashboardpreview/                              | PDF file compiling all dashboard screenshots                 |
+| README.md                           | Project documentation file                                   |
+
 
 ---
 
@@ -61,7 +62,7 @@ The dashboard is designed with multiple tabs and a light gradient theme. It incl
 7. **Portfolio Allocation (Pie Chart)**
 8. **Correlation Matrix Heatmap**
 
-> 📌 All visuals are saved under the `/outputs` folder and also compiled in the `/docs/dashboard_visuals.pdf` file.
+> 📌 All visuals are saved under the `/visualisations` folder and also compiled in the `/dashboardpreview.pdf` file.
 
 ---
 
@@ -85,9 +86,9 @@ The dashboard is designed with multiple tabs and a light gradient theme. It incl
 
 ## 🚀 How to Run
 
-1. Open `mutual_fund_analysis_updated.R` in RStudio.
-2. Ensure all required libraries are installed (`install.packages(...)` if not).
-3. Run the script and launch the Shiny dashboard using:
+Open `mutual_fund_analysis_updated.R` in RStudio.
+Ensure all required libraries are installed (`install.packages(...)` if not).
+Run the script and launch the Shiny dashboard using:
 
 ```R
 shinyApp(ui = ui, server = server)
@@ -95,7 +96,7 @@ shinyApp(ui = ui, server = server)
 ---
 
 
-## 📬 Author
+##📬 Author
 
 **Ashmita Chatterjee**  
 *MSc Economics (Data Analytics), Symbiosis School of Economics*  
