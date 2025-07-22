@@ -37,7 +37,7 @@ This project presents a comprehensive analysis of selected mutual funds with the
 
 ## 📂 Project Structure
 
-```plaintext
+
 mutual-fund-analysis/
 │
 ├── mutual_fund_analysis_updated.R      # Main R source code for data analysis and dashboard
