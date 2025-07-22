@@ -65,7 +65,7 @@ The dashboard is designed with multiple tabs and a light gradient theme. It incl
 
 ### 🍭 Sharpe Ratio Lollipop Chart
 
-![Sharpe Ratio Lollipop Chart](visualisations/Sharpe%20Ratio%20Lollipop%20Chart.png)
+![Sharpe Ratio Lollipop Chart](visualistions/Sharpe%20Ratio%20Lollipop%20Chart.png)
 
 
 ---
