@@ -62,7 +62,7 @@ The dashboard is designed with multiple tabs and a light gradient theme. It incl
 
 > 📌 All visuals are saved under the `/visualisations` folder and also compiled in the `/dashboardpreview.pdf` file.
 ### 📊 Standard Deviation Bar Chart
-![Standard Deviation Bar Chart](visualistions/Bar%Chart&of%Standard%Deviation.png)
+![Bar Chart of Standard Deviation](visualistions/Bar%Chart&of%Standard%Deviation.png)
 
 ### 🍭 Sharpe Ratio Lollipop Chart
 
