@@ -61,6 +61,12 @@ The dashboard is designed with multiple tabs and a light gradient theme. It incl
 8. **Correlation Matrix Heatmap**
 
 > 📌 All visuals are saved under the `/visualisations` folder and also compiled in the `/dashboardpreview.pdf` file.
+### 📊 Sharpe Ratio Comparison
+
+### 🍭 Sharpe Ratio Lollipop Chart
+
+![Sharpe Ratio Lollipop Chart](visualisations/Sharpe%20Ratio%20Lollipop%20Chart.png)
+
 
 ---
 
@@ -88,8 +94,8 @@ The dashboard is designed with multiple tabs and a light gradient theme. It incl
 - Ensure all required libraries are installed (`install.packages(...)` if not).
 - Run the script and launch the Shiny dashboard using:
 
- - ```R
- -shinyApp(ui = ui, server = server)
+ -  ```R
+ - shinyApp(ui = ui, server = server)
 
 ---
 
