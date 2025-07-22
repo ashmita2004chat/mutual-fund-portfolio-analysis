@@ -61,7 +61,8 @@ The dashboard is designed with multiple tabs and a light gradient theme. It incl
 8. **Correlation Matrix Heatmap**
 
 > 📌 All visuals are saved under the `/visualisations` folder and also compiled in the `/dashboardpreview.pdf` file.
-### 📊 Sharpe Ratio Comparison
+### 📊 Standard Deviation Bar Chart
+![Standard Deviation Bar Chart](visualistions/Bar%Chart&of%Standard%Deviation.png)
 
 ### 🍭 Sharpe Ratio Lollipop Chart
 
