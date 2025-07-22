@@ -23,7 +23,7 @@ This project presents a comprehensive analysis of selected mutual funds with the
 
 ## 🛠️ Tools & Technologies Used
 
-- **R** (v4.4.0)
+- **R** (v4.4.1)
 - **RStudio IDE**
 - **Shiny** (for interactive dashboard)
 - **Packages**:
