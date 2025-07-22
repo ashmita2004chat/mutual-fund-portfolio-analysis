@@ -1,1 +1,1 @@
-This is a placeholder file. CSVs will go here.
+This is a placeholder file. XLSX files will go here.
