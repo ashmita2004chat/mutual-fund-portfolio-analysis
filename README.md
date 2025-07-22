@@ -95,8 +95,8 @@ The dashboard is designed with multiple tabs and a light gradient theme. It incl
 - Ensure all required libraries are installed (`install.packages(...)` if not).
 - Run the script and launch the Shiny dashboard using:
 
- 1.  ```R
- 2. shinyApp(ui = ui, server = server)
+   `R`
+  - shinyApp(ui = ui, server = server)
 
 ---
 
