@@ -34,8 +34,6 @@ This project presents a comprehensive analysis of selected mutual funds with the
   - `shiny`, `shinythemes` – Dashboard development
 
 ---
-## 📁 Project Structure
-
 ## 📁 Repository Structure
 
 | File/Folder                         | Description                                                  |
@@ -86,21 +84,19 @@ The dashboard is designed with multiple tabs and a light gradient theme. It incl
 
 ## 🚀 How to Run
 
-Open `mutual_fund_analysis_updated.R` in RStudio.
-Ensure all required libraries are installed (`install.packages(...)` if not).
-Run the script and launch the Shiny dashboard using:
+- Open `mutual_fund_analysis_updated.R` in RStudio.
+- Ensure all required libraries are installed (`install.packages(...)` if not).
+- Run the script and launch the Shiny dashboard using:
 
-```R
-shinyApp(ui = ui, server = server)
+- ```R
+- shinyApp(ui = ui, server = server)
 
 ---
 
-
-##📬 Author
-
+## 📬 Author
 **Ashmita Chatterjee**  
-*MSc Economics (Data Analytics), Symbiosis School of Economics*  
-📧 [ashmita6404@gmail.com](mailto:ashmita6404@gmail.com)
+- *MSc Economics (Data Analytics), Symbiosis School of Economics*  
+- 📧 [ashmita6404@gmail.com](mailto:ashmita6404@gmail.com)
 
 ---
 
