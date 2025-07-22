@@ -34,18 +34,17 @@ This project presents a comprehensive analysis of selected mutual funds with the
   - `shiny`, `shinythemes` – Dashboard development
 
 ---
+## 📁 Project Structure
 
-## 📂 Project Structure
-
+The repository is organized as follows:
 
 mutual-fund-analysis/
 │
-├── mutual_fund_analysis_updated.R      # Main R source code for data analysis and dashboard
-├── /data/                              # Folder containing raw CSV files (mutual fund NAVs)
-├── /visualizations/                           # PNG files for bar charts, lollipop charts, heatmaps, etc.
-├── /dashboardpreview/                              # PDF file compiling all dashboard screenshots
-├── README.md                           # Project documentation file
-
+├── mutual_fund_analysis_updated.R # Main R source code for data analysis and dashboard
+├── /data/ # Folder containing raw CSV files (mutual fund NAVs)
+├── /outputs/ # PNG files for bar charts, lollipop charts, heatmaps, etc.
+├── /docs/ # PDF file compiling all dashboard screenshots
+└── README.md # Project documentation file
 
 ---
 
